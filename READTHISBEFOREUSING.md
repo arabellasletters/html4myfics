@@ -5,3 +5,7 @@ The html does not work straight out of the following code, you'll have to replac
 You can get this media by uploading it to github and using the raw https (see below) or off of pinterest or another image hosting site
 all raw source links if uploaded to github can be made using this template:
 https://raw.githubusercontent.com/YOURUSERNAME/REPOSITORYNAME/main/NAME_OF_FILE.MP4_OR_JPEG_OR_WHATEVER
+
+
+if you have any questions dm me on discord (@arabellas.letters) or tumblr (@arabellasletters)
+or anywhere else https://arabellasletters.carrd.co
