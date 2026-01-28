@@ -1,0 +1,81 @@
+<div class="tiktokui">
+
+<p><video class="background" crossorigin="anonymous" preload="metadata" loop="loop" muted="muted" controls="controls" playsinline="playsinline">
+  <source src="SOURCELINKGOESHERE" type="video/mp4">
+</video></p><div class="top-bar">
+
+<p><img class="top-logo" src="https://i.postimg.cc/3x7sRCy0/Adobe-Color-tiktok-live-red-symbol-23139-recolored.png" alt="logo_icon"><br />
+<span class="top-label">Explore</span><br />
+<span class="top-label">Following</span><br />
+<span class="top-label">Friends</span><br />
+<span class="top-label active">For You</span><br />
+<br />
+<img class="top-icon" src="https://i.postimg.cc/cL4F2Dgh/output-onlinepngtools.png" alt="right-icon"></p></div>
+<div class="right">
+<div class="profile">
+<div class="profile-pic">
+
+<p><img src="PROFILEIMAGELINK" alt="Profile"></p><div class="plus">
+
+<p><img src="https://archiveofourown.org" alt="Add"></p></div>
+</div>
+</div>
+<div class="right-icon">
+
+<p><img src="https://i.postimg.cc/sXm3Qbwj/tiktok-heart-symbol-red-23165.png" alt="likes"><br />
+<span class="right-label">186.6k</span></p></div>
+<div class="right-icon">
+
+<p><img src="https://i.postimg.cc/VknNyFxS/tiktok-comment-symbol-black-23163.png" alt="comments"><br />
+<span class="right-label">9,421</span></p></div>
+<div class="right-icon">
+
+<p><img src="https://i.postimg.cc/K86gBj2T/tiktok-save-bookmark-symbol-black-23160.png" alt="bookmarks"><br />
+<span class="right-label">46.6k</span></p></div>
+
+<p> </p><div class="right-icon">
+
+<p><img src="https://i.postimg.cc/g0Kkj2km/tiktok-share-arrow-symbol-black-23157.png" alt="shares"><br />
+<span class="right-label">90.2k</span></p></div>
+<div class="sound">
+
+<p><img src="SOUNDIMAGELINK" alt="Sound"></p></div>
+</div>
+<div class="caption">
+
+<p>
+      <span class="caption-user">USERNAME</span>
+    </p>
+
+<p class="caption-text">
+    CAPTION GOES HERE #AND YOU CAN ALSO USE HASHTAGS
+  </p></div><div class="bottom"><div class="progress-range"><div class="progress-bar"></div></div><div class="icons"><div class="icons-item">
+
+<p><img src="https://i.postimg.cc/52nSqCJ5/tiktok-home-symbol-black-23142.png" alt="Home"><br />
+<span class="icon-label">Home</span></p></div><div class="icons-item">
+
+<p><img src="https://i.postimg.cc/R005XKHv/shopping-bag.png" alt="Shop"><br />
+<span class="icon-label">Shop</span></p></div><div class="icons-item icons-add"><div class="stacked-backgrounds">
+
+<p><span class="red-box"></span><br />
+<span class="blue-box"></span><br />
+<span class="white-box"></span></p></div>
+
+<p><img src="https://assets.codepen.io/2629920/add.png" alt="Add"></p></div><div class="icons-item">
+
+<p><img src="https://i.postimg.cc/4KC9yZ9P/inbox-icon.png" alt="Inbox"><br />
+<span class="icon-label">Inbox</span></p></div><div class="icons-item">
+
+<p><img src="https://i.postimg.cc/dL1dS5F2/profile-icon.png" alt="Profile"><br />
+<span class="icon-label">Profile</span></p></div></div></div></div><div class="icons-item icons-add"><div class="stacked-backgrounds">
+
+<p>
+          
+          </p></div>
+
+<p>
+       
+        </p></div><div class="icons-item">
+
+<p>
+</p></div>
